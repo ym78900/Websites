@@ -1,5 +1,12 @@
-You have to run 
+#A small project with Meteor
 
-meteor npm install
+In order to be able to run this,
+You should first:
 
-in this directory before you can run the application. 
+in this directory before you can run the application.
+
+`curl https://install.meteor.com/ | sh`
+
+`meteor npm install`
+
+ 
