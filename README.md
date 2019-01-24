@@ -1,5 +1,7 @@
 #A small project with Meteor
 
+A simple website add on list with Meteor.
+
 In order to be able to run this,
 You should first:
 
